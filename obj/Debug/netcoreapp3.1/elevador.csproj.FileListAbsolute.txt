@@ -1,0 +1,13 @@
+C:\Users\DEV\Desktop\elevador\bin\Debug\netcoreapp3.1\elevador.exe
+C:\Users\DEV\Desktop\elevador\bin\Debug\netcoreapp3.1\elevador.deps.json
+C:\Users\DEV\Desktop\elevador\bin\Debug\netcoreapp3.1\elevador.runtimeconfig.json
+C:\Users\DEV\Desktop\elevador\bin\Debug\netcoreapp3.1\elevador.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\elevador\bin\Debug\netcoreapp3.1\elevador.dll
+C:\Users\DEV\Desktop\elevador\bin\Debug\netcoreapp3.1\elevador.pdb
+C:\Users\DEV\Desktop\elevador\obj\Debug\netcoreapp3.1\elevador.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\elevador\obj\Debug\netcoreapp3.1\elevador.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\elevador\obj\Debug\netcoreapp3.1\elevador.AssemblyInfo.cs
+C:\Users\DEV\Desktop\elevador\obj\Debug\netcoreapp3.1\elevador.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\elevador\obj\Debug\netcoreapp3.1\elevador.dll
+C:\Users\DEV\Desktop\elevador\obj\Debug\netcoreapp3.1\elevador.pdb
+C:\Users\DEV\Desktop\elevador\obj\Debug\netcoreapp3.1\elevador.genruntimeconfig.cache
